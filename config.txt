@@ -1,6 +1,6 @@
 owner=564414567946387487
-prefix=1
-game=1play || 1help
+prefix=7
+game=7play || 7help
 stayinchannel=true
 songinstatus=false
-token= Êﬂ‰
+token=NTY5NTQyMTEwODU3MDAzMDA5.XLyJiA.tIlt2EFB3qFci7xtdicuPFpdqug
